@@ -1,4 +1,4 @@
-# LetsGo NextJS
+# Nextjs Movies
 
 A movie information website built with Next.js 14
 
@@ -33,18 +33,13 @@ styles/
 ├── movie-credits.module.css # Movie credits styles
 ├── movie-info.module.css   # Movie info styles
 ├── movie-videos.module.css # Movie videos styles
-├── movie-providers.module.css # Movie providers styles
+├── movie-providers.module.css # Movie provider styles
 ├── movie-similar.module.css # Movie similar styles
 └── navigation.module.css   # Navigation styles
 
 lib/
 └── constants.ts     # API constants
 ```
-
-## Upcoming Features
-
-- Similar Movies: Show movies similar to the current movie
-- Streaming Providers: Display where the movie is available to stream
 
 ## Styling
 
