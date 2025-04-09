@@ -1,4 +1,4 @@
-# Nextjs Movies
+# Next.js Movies
 
 A movie information website built with Next.js 14
 
